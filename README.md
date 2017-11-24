@@ -14,3 +14,10 @@ http://127.0.0.1:8080 访问
 
 运用vue+express+mongodb，努力学习跟进中............
 
+预览><br/>
+<img src="https://github.com/BBJI/BBJI-BLOG/blob/master/preview/3.png"/><hr/>
+<img src="https://github.com/BBJI/BBJI-BLOG/blob/master/preview/1.png"/><hr/>
+<img src="https://github.com/BBJI/BBJI-BLOG/blob/master/preview/4.png"/><hr/>
+<img src="https://github.com/BBJI/BBJI-BLOG/blob/master/preview/2.png"/><hr/>
+<img src="https://github.com/BBJI/BBJI-BLOG/blob/master/preview/6.png"/><hr/>
+<img src="https://github.com/BBJI/BBJI-BLOG/blob/master/preview/5.png"/>
